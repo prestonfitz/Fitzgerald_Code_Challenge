@@ -19,6 +19,6 @@ Make the app pretty
 
 Improper inputs:
 -Spaces - x
--Characters not in the list
+-Characters not in the list - x
 -Characters that aren't allowed to lead (listed in step 4)
 -Too many characters in a row (not listed in directions, but nice)
