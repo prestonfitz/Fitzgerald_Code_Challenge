@@ -1,5 +1,6 @@
-﻿THIS IS MY NOTES AND MY THOUGHT PROCESS
+﻿THESE ARE MY NOTES
 
+Decimal to Roman
 What needs to happen first:
 Get numeral as a string - X
 Split numerals into chars - X
@@ -14,11 +15,23 @@ Phase three:
 Validate all inputs and reject improper input (without breaking)
 
 Phase four:
-Make the app pretty
+Make the app pretty - x
 
 
 Improper inputs:
 -Spaces - x
 -Characters not in the list - x
 -Characters that aren't allowed to lead (listed in step 4)
--Too many characters in a row (not listed in directions, but nice)
+
+Characters that aren't allowed to lead
+-50 and 500
+-Must go biggest to largest
+-Can't go out of order
+-Can I cheat and just call my other function to verify? Slow if we automated this thing, but may be okay with manual entry
+
+
+Roman to Decimal
+-Convert to Int - x
+-Verify that the int is within range - x
+-figure out how to convert to letters without exceeding the allowed number of letters in a row (start with biggest or smallest?) - x
+-Make the app pretty
