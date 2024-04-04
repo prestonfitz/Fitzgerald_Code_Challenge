@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fitzgerald_Code_Challenge/1.0.0": {
+        "runtime": {
+          "Fitzgerald_Code_Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fitzgerald_Code_Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

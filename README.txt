@@ -35,3 +35,7 @@ Roman to Decimal
 -Verify that the int is within range - x
 -figure out how to convert to letters without exceeding the allowed number of letters in a row (start with biggest or smallest?) - x
 -Make the app pretty
+
+TIME SPENT ON PROJECT
+4:10
+Application RomanNumeralTranslator in Executable application folder
