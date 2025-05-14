@@ -37,5 +37,5 @@ Roman to Decimal
 -Make the app pretty
 
 TIME SPENT ON PROJECT
-4:10
+4:10 (The last 15 or so minutes were spent troubleshooting an issue converting to an executable. My apologies for going a bit over time). 
 Application RomanNumeralTranslator in Executable application folder
